@@ -7,7 +7,7 @@ This is just a simple "Password" generator I built while learning Python. Genera
 
 _Requires Python 3_
 
-Just download the PyPassGen.py, and copy/move the file to a folder.
+Download the *PyPassGen.py*, and copy/move the file to a folder.
 
 # How to Use
 
